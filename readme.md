@@ -43,7 +43,8 @@ Clone the repository
 git clone https://github.com/tapasya1225/synent-task5-fileorganizer-tapasya/blob/main/readme.md
 
 
-### Step 2 — Open Project Folder
+### Step 2
+ Open Project Folder
 
 ```bash
 cd synent-task5-fileorganizer-tapasya
