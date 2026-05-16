@@ -40,4 +40,4 @@ A Python automation project that automatically organizes files into folders base
 Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/tapasya1225/synent-task5-fileorganizer-tapasya/blob/main/readme.md
