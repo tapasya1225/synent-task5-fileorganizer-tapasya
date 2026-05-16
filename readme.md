@@ -41,3 +41,26 @@ Clone the repository
 
 ```bash
 git clone https://github.com/tapasya1225/synent-task5-fileorganizer-tapasya/blob/main/readme.md
+
+
+### Step 2 — Open Project Folder
+
+```bash
+cd synent-task5-fileorganizer-tapasya
+```
+
+### Step 3 — Run the Program
+
+```bash
+python file_organizer.py
+```
+
+### Step 4 — Enter Folder Path
+
+Example:
+
+```text
+C:\Users\tapasya\Desktop\test_files
+```
+
+The program will automatically organize files into folders.
